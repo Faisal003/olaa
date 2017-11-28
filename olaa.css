@@ -1,0 +1,55 @@
+#header { 
+    margin: 5px;
+    height: 100px;
+    background: #e05151;
+      }
+#header
+ img {
+        float: left;
+        margin: 20px
+      }
+#header h3 {
+    line-height: 5;
+    color: white
+  }
+nav {
+			background-color: grey ;
+      margin: 5px ;
+		}
+nav ul {
+      display: inline-block;
+    }
+nav ul li a {
+      color: white;
+      text-decoration: none;
+      padding: 10px 20px 
+    }
+li {
+    		display: inline;
+        color: white;		
+   		}
+
+section article{
+    float: left;
+    width: 50%;
+  }  				
+section article figur{
+    height: 400px;
+    float: left;
+    margin: 10px ;
+  }  
+  figure {
+    font-style: bold;
+    font-size: 40px;
+  }
+#footer {
+    height: 40px;
+    width: 100%;
+    background: #e05151;
+    clear: both; text-align: center;
+    color: white;
+}
+#footer p {
+    
+    padding:16px;    
+}
